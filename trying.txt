@@ -1,1 +1,5 @@
 Hello I am trying a txt file
+red
+blue
+green
+orange
