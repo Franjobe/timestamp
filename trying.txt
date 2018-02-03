@@ -1,5 +1,6 @@
 Hello (BRANCH A and B merged)
 red
+ADDING COLOR AND CHECK
 blue
 green
 orange
