@@ -1,4 +1,4 @@
-Hello I am trying a txt file for the (BRANCH A)
+Hello (BRANCH A and B merged)
 red
 blue
 green
