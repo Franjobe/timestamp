@@ -1,4 +1,4 @@
-Hello I am trying a txt file for the branchy
+Hello I am trying a txt file (BRANCH B)
 red
 blue
 green
